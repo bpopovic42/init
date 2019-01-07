@@ -1,0 +1,1 @@
+netstat -rn | grep -e 'Destination' -e 'default' | head -2

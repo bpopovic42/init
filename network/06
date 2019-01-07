@@ -1,0 +1,3 @@
+From 'man resolver':
+FILES
+     /etc/resolv.conf  The configuration file, see resolver(5).
