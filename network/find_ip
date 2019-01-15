@@ -1,0 +1,15 @@
+Public :
+
+42.fr :
+dig +short 42.fr @resolver1.opendns.com
+
+Mine :
+dig +short myip.opendns.com @resolver1.opendns.com
+
+Local/Private :
+
+42.fr :
+dig +short 42.fr
+
+Mine :
+dig +short myip.opendns.com ???
