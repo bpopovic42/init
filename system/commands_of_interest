@@ -1,0 +1,2 @@
+To use multiple ssh connections to the vagrant machine, connect with :
+ssh -F vagrant_ssh default

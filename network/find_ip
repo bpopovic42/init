@@ -5,6 +5,7 @@ dig +short 42.fr @resolver1.opendns.com
 
 Mine :
 dig +short myip.opendns.com @resolver1.opendns.com
+host -t txt o-o.myaddr.l.google.com 8.8.8.8
 
 Local/Private :
 
@@ -13,3 +14,4 @@ dig +short 42.fr
 
 Mine :
 dig +short myip.opendns.com ???
+ipconfig getifaddr %network_interface%

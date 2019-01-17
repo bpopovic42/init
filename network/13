@@ -1,0 +1,10 @@
+FOR MY MACHINE :
+nslookup "$(ipconfig getifaddr en0)"
+OR
+host "$(ipconfig getifaddr en0)"
+OR
+hostname
+FOR DEFAULT HOST :
+nslookup "$(nslookup host | grep -m1 -oE "\b([0-9]{1,3}\.){3}[0-9]{1,3}\b")"
+OR
+host "$(nslookup host | grep -m1 -oE "\b([0-9]{1,3}\.){3}[0-9]{1,3}\b")"
