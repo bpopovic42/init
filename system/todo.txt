@@ -1,0 +1,12 @@
+Make a script to install vagrant.
+
+Needs to be called from zshrc and included in my .cfg.
+
+It needs to check wether I'm at school or not before attempting installation.
+
+It should check if the box (debian/stretch64) is available in the sgoinfre
+download it there if it doesn't and install from it afterwise in order to speed up
+the process
+
+Then allow user to setup a new machine with a given name of choice,
+it would set everything up in the goinfre with machine specs, name, and synced folder.
