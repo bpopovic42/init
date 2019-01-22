@@ -1,0 +1,8 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+machine_name = "Debian_01"
+Vagrant.configure("2") do |config|
+	config.vm.box = "debian/stretch64"
+	config.vm.synced_folder "../#{machine_name}_synced", "/home/synced"
+end
