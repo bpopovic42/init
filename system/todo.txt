@@ -46,3 +46,4 @@ vagrant_42 add_machine [PROJECT_NAME] [MACHINE_NAME]
 
 TODO :
 Put project script in its own ~/.vagrant_42 folder and its own repo for modularity and deployment purpose
+Find how to configure installation to deploy custom packages and config files (hostname, bashrc...)
