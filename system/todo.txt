@@ -10,3 +10,36 @@ the process
 
 Then allow user to setup a new machine with a given name of choice,
 it would set everything up in the goinfre with machine specs, name, and synced folder.
+
+Check if domain == 42
+	Create folders (~/goinfre/vagrant, ~/goinfre/vagrant/setup, ~/sgoinfre/vagrant)
+	Export paths
+	If vagrant user aliases don't exist
+		Create aliases
+
+Aliases :
+
+vagrant_42 new_project [PROJECT-NAME] :
+	Create new project of name PROJECT_NAME
+	If PROJECT_NAME folder (case insensitive) exist in .cfg
+		Export corresponding Vagrantfile
+		Run installation commands
+	Else if PROJECT_NAME doesn's exists in .cfg
+		Ask user if he wants to import his own Vagrantfile for the project
+			case y : take file path
+			case n : skip
+		Ask user if he wants to create an empty project
+			case y : Tell user to add machine with 'vagrant_42 add_machine',
+				Create project folder and basic 'empty' vagrantfile
+			case n : exit
+
+vagrant_42 add_machine [PROJECT_NAME] [MACHINE_NAME]
+	If PROJECT_NAME exists in $VAGRANT_DIR
+		Ask for machine type (ex : debian/stretch64)
+			If machine type setup exits in .cfg
+				Import corresponding setup into project's Vagrantfile
+			Else tell user default machine will be installed and that he can modify it later on and :
+				config.vm.box = "debian/stretch64"
+				vagrant init type
+	Else
+		'Invalid project name use vagrant_42 new_project [PROJECT_NAME] to create a new one'
