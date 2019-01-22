@@ -43,3 +43,6 @@ vagrant_42 add_machine [PROJECT_NAME] [MACHINE_NAME]
 				vagrant init type
 	Else
 		'Invalid project name use vagrant_42 new_project [PROJECT_NAME] to create a new one'
+
+TODO :
+Put project script in its own ~/.vagrant_42 folder and its own repo for modularity and deployment purpose
