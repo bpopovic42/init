@@ -1,3 +1,7 @@
+https://www.google.com/search?rlz=1C5CHFA_enFR830FR830&ei=35ZIXPqVJJOFjLsP8MmF8AY&q=how+to+handle+stay+focused+for+long+time+coding&oq=how+to+handle+stay+focused+for+long+time+coding&gs_l=psy-ab.3...41854.48460..48620...1.0..0.138.2488.31j3......0....1..gws-wiz.......0i71j0i67j0j0i22i30j33i22i29i30j33i21j33i160.vUEfNUatvbE | how to handle stay focused for long time coding - Google Search
+https://stackoverflow.com/questions/785037/how-to-handle-short-coding-sessions | time - How to handle short coding sessions? - Stack Overflow
+https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1 | Lessons from my first year of live coding on Twitch
+
 https://stackoverflow.com/questions/12617152/how-do-i-create-directory-if-none-exists-using-file-class-in-ruby | How do I create directory if none exists using File class in Ruby? - Stack Overflow
 https://profile.intra.42.fr/ | Intra Profile Home
 https://www.vagrantup.com/docs/multi-machine/ | Multi-Machine - Vagrant by HashiCorp
