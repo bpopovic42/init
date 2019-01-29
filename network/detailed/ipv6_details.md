@@ -82,6 +82,9 @@ The IPv6 loopback address is ::1, you can ping it as follows :
 
 ## Links
 
-Article rewritten and simplified by myself from :
+Article rewritten and simplified by myself from :  
 [Steve's internet IPv6's guide](http://www.steves-internet-guide.com/ipv6-guide/)  
 Check it out for more info, links and details.
+
+For a more detailed article on IPv6 subnetting mechanisms :  
+[IBM's IPv6 subnetting article](https://www.ibm.com/support/knowledgecenter/en/STCMML8/com.ibm.storage.ts3500.doc/opg_3584_IPv4_IPv6_prefix_subnet_mask.html)  
