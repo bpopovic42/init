@@ -97,7 +97,7 @@ https://networkengineering.stackexchange.com/questions/46653/what-is-the-use-of-
 ### Wikipedia :
 
 About Link-Local Addresses:  
-https://www.wikipedia.com/en/Link-local_address  
+https://en.wikipedia.com/en/Link-local_address  
 
 IPv6 page:  
-https://www.wikipedia.com/en/IPv6_address
+https://en.wikipedia.org/wiki/IPv6_address  
