@@ -1,0 +1,20 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+require 'fileutils'
+
+vm_name_001 = "Debian_01"
+
+dirname = File.dirname("./sync_folder/#{vm_name_001}")
+unless File.directory?("./sync_folder/#{vm_name_001}")
+	FileUtils.mkdir_p("./sync_folder/#{vm_name_001}")
+end
+
+Vagrant.configure("2") do |config|
+
+	config.vm.define "#{vm_name_001}" do |vm001|
+		vm001.vm.box = "debian/stretch64"
+		vm001.vm.synced_folder "./sync_folder/#{vm_name_001}", "/home/synced"
+	end
+
+end
