@@ -1,0 +1,2 @@
+a)ifconfig en0 | grep 'broadcast' | sed 's/^.*broadcast //'
+b)
