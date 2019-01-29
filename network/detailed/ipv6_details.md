@@ -17,7 +17,7 @@ If we look at the upper 64 bits in more detail we can see that it is split into 
 
 The upper 48 bits are used for the global network addresses and are for routing over the internet.
 
-![](Resources/ipv6-address-structure.jpg)
+![](resources/ipv6-address-structure.jpg)
 
 ## Address Types and Scope
 
@@ -26,4 +26,4 @@ IPv6 addresses have three types:
 * **Unique Local** - Scope Internal Network or VPN internally routable, but **Not routed** on Internet
 * **Link Local** - Scope network link - **Not Routed** internally or externally
 
-![](Resources/ipv6-address-types.jpg)
+![](resources/ipv6-address-types.jpg)
