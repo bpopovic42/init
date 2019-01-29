@@ -42,3 +42,4 @@ en0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
 [Useful iPython book](https://gist.github.com/arntzy/425b893e0284803fe140) ([Can be read here](https://nbviewer.jupyter.org/gist/arntzy/425b893e0284803fe140))  
 [Wikipedia page on link-local addresses](https://en.wikipedia.org/wiki/Link-local_address)  
 [Wikipedia page on IPV6 address scopes](https://www.wikipedia.com/en/IPv6_address#/IPv6_address_scopes/)  
+[Linux's ifconfig output analysis](http://www.aboutlinux.info/2006/11/ifconfig-dissected-and-demystified.html)  
