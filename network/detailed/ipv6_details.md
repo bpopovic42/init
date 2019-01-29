@@ -82,9 +82,22 @@ The IPv6 loopback address is ::1, you can ping it as follows :
 
 ## Links
 
-Article rewritten and simplified by myself from :  
+Article rewritten and simplified by myself from:  
 [Steve's internet IPv6's guide](http://www.steves-internet-guide.com/ipv6-guide/)  
 Check it out for more info, links and details.
 
-For a more detailed article on IPv6 subnetting mechanisms :  
+For a more detailed article on IPv6 subnetting mechanisms:  
 [IBM's IPv6 subnetting article](https://www.ibm.com/support/knowledgecenter/en/STCMML8/com.ibm.storage.ts3500.doc/opg_3584_IPv4_IPv6_prefix_subnet_mask.html)  
+
+About the zone ID:  
+https://superuser.com/questions/99746/why-is-there-a-percent-sign-in-the-ipv6-address  
+https://howdoesinternetwork.com/2013/ipv6-zone-id  
+https://networkengineering.stackexchange.com/questions/46653/what-is-the-use-of-the-ipv6-scope-id  
+
+### Wikipedia :
+
+About Link-Local Addresses:  
+https://www.wikipedia.com/en/Link-local_address  
+
+IPv6 page:  
+https://www.wikipedia.com/en/IPv6_address
