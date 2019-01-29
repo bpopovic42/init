@@ -83,5 +83,5 @@ The IPv6 loopback address is ::1, you can ping it as follows :
 ## Links
 
 Article rewritten and simplified by myself from :
-[Steve's internet IPv6's guide](http://www.steves-internet-guide.com/ipv6-guide/)
+[Steve's internet IPv6's guide](http://www.steves-internet-guide.com/ipv6-guide/)  
 Check it out for more info, links and details.
