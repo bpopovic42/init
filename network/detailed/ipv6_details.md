@@ -27,3 +27,61 @@ IPv6 addresses have three types:
 * **Link Local** - Scope network link - **Not Routed** internally or externally
 
 ![](resources/ipv6-address-types.jpg)
+
+## Global and Public Addresses
+
+Global addressed are routable on the internet and start with 2001:
+
+These addresses are known as **global Unicast addresses** and are the equivalent of the public addresses of IPv4 networks
+
+The Internet authorities allocate address blocks to ISPs who in turn allocate them to their customers.
+
+## Internal Addresses - Link Local and Unique Local
+
+In IPv4 internal addresses use the reserved number ranges 10.0.0.0/8,172.16.0.0/12,192.168.0.0/16 and 169.254.0.0/16
+
+These addresses are **not routed** on the Internet and are reserved for internal networks.
+
+IPv6 also has **two internal address types**
+
+* Link Local
+* Unique Local
+
+### Link Local
+
+These are meant to be used inside an internal network, and again they are **not routed** on the Internet.
+
+It is equivalent to the IPv4 address 169.254.0.0/16 which is allocated on an IPv4 network when no DHCP server is found
+
+Link local addresses start with **fe80**
+
+They are restricted to a link and are **not routed** on the Internal network or the Internet
+
+**Link Local Addresses** are **self assigned** i.e. they do not require a DHCP server
+
+A link local address is required on every IPv6 interface even if no routing is present
+
+### Unique Local
+
+**Unique Local** are meant to be used inside an internal network. They are **routed** on the Internal network but **not routed** on the Internet.
+
+Their IPv4 addresses equivalent are 10.0.0.0/8,172.16.0.0/12 and 192.168.0.0/16
+
+Unique local addresses start with **fc00**
+
+## IPv6 Loopback
+
+The IPv6 loopback address is ::1, you can ping it as follows :
+``` shell
+~> ping ::1 -6
+```
+
+## Recommended Video
+
+[IPv6 Addressing and Subnetting](https://youtu.be/dUmhZOnz_qc)  
+
+## Links
+
+Article rewritten and simplified by myself from :
+[Steve's internet IPv6's guide](http://www.steves-internet-guide.com/ipv6-guide/)
+Check it out for more info, links and details.
