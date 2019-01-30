@@ -1,3 +1,31 @@
+https://www.youtube.com/watch?v=yuXq3gBQ0dI | Why is the OP-1 so expensive? | Andrew Huang - YouTube
+https://www.youtube.com/watch?v=euuIJQHun1s | (22) NAMM 2017: Teenage Engineering OPZ - YouTube
+https://raw.githubusercontent.com/grumbach/nm_otool/master/README.md | https://raw.githubusercontent.com/grumbach/nm_otool/master/README.md
+https://www.networkworld.com/article/3058234/linux/getting-the-most-from-ifconfig.html | Getting the most from ifconfig | Network World
+https://nbviewer.jupyter.org/gist/arntzy/425b893e0284803fe140 | Jupyter Notebook Viewer
+https://dillinger.io/ | Online Markdown Editor - Dillinger, the Last Markdown Editor ever.
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet | Markdown Cheatsheet · adam-p/markdown-here Wiki
+https://github.com/bpopovic42/init/blob/master/network/detailed/ipv6_details.md | init/ipv6_details.md at master · bpopovic42/init
+https://stackoverflow.com/questions/29002827/bash-terminal-output-highlight-lines-containing-some-text | shell - Bash terminal output - highlight lines containing some text - Stack Overflow
+https://stackoverflow.com/questions/17236005/grep-output-with-multiple-colors | bash - Grep output with multiple Colors? - Stack Overflow
+https://unix.stackexchange.com/questions/146077/grep-display-both-matched-and-umatched-lines | linux - Grep display both matched and umatched lines - Unix & Linux Stack Exchange
+https://stackoverflow.com/questions/17236005/grep-output-with-multiple-colors | bash - Grep output with multiple Colors? - Stack Overflow
+https://github.com/bpopovic42/vagrant_42 | bpopovic42/vagrant_42: Automated vagrant configuration at 42 with function and aliases for quick deployment
+https://www.google.com/search?q=vagrant+store+boxes+to+speed+up+deployment&rlz=1C5CHFA_enFR830FR830&oq=vagrant+store+boxes+to+speed+up+deployment&aqs=chrome..69i57.12159j1j7&sourceid=chrome&ie=UTF-8 | vagrant store boxes to speed up deployment - Google Search
+https://profile.intra.42.fr/ | Intra Profile Home
+https://unix.stackexchange.com/questions/186859/understand-hostname-and-etc-hosts | Understand hostname and /etc/hosts - Unix & Linux Stack Exchange
+https://superuser.com/questions/429790/sudo-command-trying-to-search-for-hostname | root - sudo command trying to search for hostname - Super User
+https://bugs.launchpad.net/ubuntu/+source/hostname/+bug/113778 | Bug #113778 “Changing hostname using “hostname” breaks sudo” : Bugs : hostname package : Ubuntu
+https://www.myblog-it.fr/2017/06/25/pas-difconfig-dans-debian-9/ | Pas d’ifconfig dans Debian 9 – Myblog-it.fr
+https://www.google.com/search?q=vagrant+ssh+from+vm+to+other+vm&rlz=1C5CHFA_enFR830FR830&oq=vagrant+ssh+from+vm+to+other+vm&aqs=chrome..69i57.8647j0j7&sourceid=chrome&ie=UTF-8 | vagrant ssh from vm to other vm - Google Search
+https://stackoverflow.com/questions/28401565/how-can-i-access-a-vagrant-guest-from-another-virtualbox-guest | How can I access a vagrant guest from another virtualbox guest? - Stack Overflow
+https://www.hashbangcode.com/article/connecting-vagrant-box-without-vagrant-ssh-command | Connecting To A Vagrant Box Without The 'vagrant ssh' Command | #! code
+https://www.vagrantup.com/docs/multi-machine/ | Multi-Machine - Vagrant by HashiCorp
+https://stackoverflow.com/questions/14870900/how-to-find-the-vagrant-ip | capistrano - How to find the Vagrant IP? - Stack Overflow
+https://www.oreilly.com/library/view/vagrant-up-and/9781449336103/ch04.html | 4. Networking in Vagrant - Vagrant: Up and Running [Book]
+https://medium.com/@jakewies/accessing-remote-machines-using-ssh-55a0fdf5e9d8 | Accessing Remote Machines Using SSH – Jake Wiesler – Medium
+https://superuser.com/questions/671191/how-to-ssh-between-a-cluster-of-vagrant-guest-vms | virtualbox - How to ssh between a cluster of Vagrant guest VMs - Super User
+
 https://www.google.com/search?rlz=1C5CHFA_enFR830FR830&ei=35ZIXPqVJJOFjLsP8MmF8AY&q=how+to+handle+stay+focused+for+long+time+coding&oq=how+to+handle+stay+focused+for+long+time+coding&gs_l=psy-ab.3...41854.48460..48620...1.0..0.138.2488.31j3......0....1..gws-wiz.......0i71j0i67j0j0i22i30j33i22i29i30j33i21j33i160.vUEfNUatvbE | how to handle stay focused for long time coding - Google Search
 https://stackoverflow.com/questions/785037/how-to-handle-short-coding-sessions | time - How to handle short coding sessions? - Stack Overflow
 https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1 | Lessons from my first year of live coding on Twitch
@@ -52,6 +80,7 @@ https://unix.stackexchange.com/questions/335371/how-does-dig-find-my-wan-ip-adre
 https://unix.stackexchange.com/questions/254328/get-the-external-ip-address-in-shell-without-dig-in-2016 | dns - Get the external IP address in shell without dig in 2016? - Unix & Linux Stack Exchange
 https://www.iplocation.net/ | IP Location Finder - Geolocation
 https://www.wikiwand.com/fr/S%C3%A9mantique | Sémantique - Wikiwand
+https://cdn.intra.42.fr/pdf/pdf/1381/init.fr.pdf | init.fr.pdf
 
 https://stackoverflow.com/questions/8781975/refactoring-in-vim | Refactoring in Vim - Stack Overflow
 http://thomas-cokelaer.info/blog/2012/01/sed-replace-a-pattern-in-all-files-in-one-command/ | SED: replace a pattern in all files in one command | Thomas Cokelaer's blog
