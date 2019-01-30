@@ -1,3 +1,4 @@
 Use the whois command 'whois slash16.org'.
+whois slash16.org | grep --color -e "Name Server" -e "$"
 Alternatively one could use a web service such as whoismyisp.com.
 Result = "Amazon.com also known as 'Amazon.com, Inc.'".

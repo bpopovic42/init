@@ -1,0 +1,2 @@
+Ajouter "46.19.122.85 intra.42.fr" au fichier /etc/hosts en tant que root
+echo -e "46.19.122.85\tintra.42.fr" | sudo tee --append /etc/hosts
