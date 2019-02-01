@@ -1,3 +1,10 @@
+https://www.ssh.com/ssh/authorized-key | Authorized key in SSH | SSH.COM
+https://benohead.com/mac-netstat-list-ports-programs/ | Mac OS X: List listening ports and programs using netstat
+https://www.cyberciti.biz/faq/howto-restart-ssh/ | HowTo: Restart SSH Service under Linux / UNIX - nixCraft
+https://www.linux.com/learn/manage-system-startup-and-boot-processes-linux-upstart | Manage System Startup and Boot Processes on Linux with Upstart | Linux.com | The source for Linux information
+https://www.tecmint.com/add-users-in-linux/ | The Complete Guide to "useradd" Command in Linux - 15 Practical Examples
+http://www.lostsaloon.com/technology/how-to-list-all-users-in-linux/ | how to list users in linux?…local, remote, real and all users – lost saloon
+
 https://www.youtube.com/watch?v=yuXq3gBQ0dI | Why is the OP-1 so expensive? | Andrew Huang - YouTube
 https://www.youtube.com/watch?v=euuIJQHun1s | (22) NAMM 2017: Teenage Engineering OPZ - YouTube
 https://raw.githubusercontent.com/grumbach/nm_otool/master/README.md | https://raw.githubusercontent.com/grumbach/nm_otool/master/README.md
@@ -5,14 +12,13 @@ https://www.networkworld.com/article/3058234/linux/getting-the-most-from-ifconfi
 https://nbviewer.jupyter.org/gist/arntzy/425b893e0284803fe140 | Jupyter Notebook Viewer
 https://dillinger.io/ | Online Markdown Editor - Dillinger, the Last Markdown Editor ever.
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet | Markdown Cheatsheet · adam-p/markdown-here Wiki
-https://github.com/bpopovic42/init/blob/master/network/detailed/ipv6_details.md | init/ipv6_details.md at master · bpopovic42/init
 https://stackoverflow.com/questions/29002827/bash-terminal-output-highlight-lines-containing-some-text | shell - Bash terminal output - highlight lines containing some text - Stack Overflow
 https://stackoverflow.com/questions/17236005/grep-output-with-multiple-colors | bash - Grep output with multiple Colors? - Stack Overflow
 https://unix.stackexchange.com/questions/146077/grep-display-both-matched-and-umatched-lines | linux - Grep display both matched and umatched lines - Unix & Linux Stack Exchange
 https://stackoverflow.com/questions/17236005/grep-output-with-multiple-colors | bash - Grep output with multiple Colors? - Stack Overflow
 https://github.com/bpopovic42/vagrant_42 | bpopovic42/vagrant_42: Automated vagrant configuration at 42 with function and aliases for quick deployment
+https://github.com/bpopovic42/init/blob/master/network/detailed/ipv6_details.md | init/ipv6_details.md at master · bpopovic42/init
 https://www.google.com/search?q=vagrant+store+boxes+to+speed+up+deployment&rlz=1C5CHFA_enFR830FR830&oq=vagrant+store+boxes+to+speed+up+deployment&aqs=chrome..69i57.12159j1j7&sourceid=chrome&ie=UTF-8 | vagrant store boxes to speed up deployment - Google Search
-https://profile.intra.42.fr/ | Intra Profile Home
 https://unix.stackexchange.com/questions/186859/understand-hostname-and-etc-hosts | Understand hostname and /etc/hosts - Unix & Linux Stack Exchange
 https://superuser.com/questions/429790/sudo-command-trying-to-search-for-hostname | root - sudo command trying to search for hostname - Super User
 https://bugs.launchpad.net/ubuntu/+source/hostname/+bug/113778 | Bug #113778 “Changing hostname using “hostname” breaks sudo” : Bugs : hostname package : Ubuntu
