@@ -4,6 +4,7 @@ https://www.cyberciti.biz/faq/howto-restart-ssh/ | HowTo: Restart SSH Service un
 https://www.linux.com/learn/manage-system-startup-and-boot-processes-linux-upstart | Manage System Startup and Boot Processes on Linux with Upstart | Linux.com | The source for Linux information
 https://www.tecmint.com/add-users-in-linux/ | The Complete Guide to "useradd" Command in Linux - 15 Practical Examples
 http://www.lostsaloon.com/technology/how-to-list-all-users-in-linux/ | how to list users in linux?…local, remote, real and all users – lost saloon
+https://www.vagrantup.com/docs/vagrantfile/machine_settings.html | config.vm - Vagrantfile - Vagrant by HashiCorp
 
 https://www.youtube.com/watch?v=yuXq3gBQ0dI | Why is the OP-1 so expensive? | Andrew Huang - YouTube
 https://www.youtube.com/watch?v=euuIJQHun1s | (22) NAMM 2017: Teenage Engineering OPZ - YouTube
