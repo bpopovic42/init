@@ -1,0 +1,1 @@
+ssh vagrant@127.0.0.1 -p 2222 -i /Volumes/Storage/goinfre/bopopovi/vagrant/42_default/.vagrant/machines/Debian_01/virtualbox/private_key

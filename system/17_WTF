@@ -1,5 +1,2 @@
 #!/bin/bash
-PORT=22
-USERNAME=vagrant
-HOST=172.28.128.3
-ssh -p $PORT $USERNAME@$HOST
+ssh -p PORT USERNAME@HOST
