@@ -1,1 +1,2 @@
+#!/bin/bash
 ifconfig en0 | grep --color=always -e 'broadcast' -e '$' | GREP_COLOR='01;35' grep -E '10.13|$'

@@ -1,5 +1,2 @@
-ifconfig | grep -A1 $(networksetup -listallhardwareports | grep -A1 Wi-Fi | sed 's/^Device: //' | tail -n 1) | sed 's/^.*ether //' | tail -n 1
-OR
-networksetup -getmacaddress en1
-OR
+#!/bin/bash
 networksetup -getmacaddress Wi-Fi

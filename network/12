@@ -1,6 +1,2 @@
-Either :
-"ipconfig getpacket en0"
-Under the yiaddr field
-Or :
-"ipconfig getifaddr en0"
-To directly get the dhcp server's assigned ip
+#!/bin/bash
+ipconfig getifaddr en0
