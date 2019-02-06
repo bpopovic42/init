@@ -1,1 +1,5 @@
-cron (man cron)
+From 'man cron' :
+NAME
+     cron -- daemon to execute scheduled commands
+Answer :
+cron

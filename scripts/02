@@ -1,1 +1,2 @@
+#!/bin/bash
 sudo pkill -u USER_NAME; sudo userdel -f USER_NAME
