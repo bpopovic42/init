@@ -1,3 +1,5 @@
-From 'man resolver':
+From 'man resolver' :
 FILES
      /etc/resolv.conf  The configuration file, see resolver(5).
+Answer :
+/etc/resolv.conf

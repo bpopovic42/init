@@ -5,4 +5,5 @@ From 'man ssh' :
 	described in the sshd(8) manual page.  This file is not highly sensitive, but the recommended permissions are read/write for
 	the user, and not accessible by others.
 
+Answer :
 ~/.ssh/authorized_keys
