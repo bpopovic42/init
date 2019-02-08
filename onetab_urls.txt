@@ -1,3 +1,9 @@
+http://redsymbol.net/articles/bash-exit-traps/ | How "Exit Traps" Can Make Your Bash Scripts Way More Robust And Reliable
+https://matthiasnoback.nl/2017/03/bash-practices-input-validation-and-local-variables/ | Bash practices - Part 1: Input validation and local variables — Matthias Noback - Blog
+https://filip-prochazka.com/blog/git-commit-only-parts-of-a-file | Git: commit only parts of a file
+https://www.codementor.io/maksimivanov/add-specific-lines-with-git-patch-eais7k69j | Add Specific Lines With Git Patch | Codementor
+https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md | zsh-autosuggestions/INSTALL.md at master · zsh-users/zsh-autosuggestions
+
 https://www.ssh.com/ssh/authorized-key | Authorized key in SSH | SSH.COM
 https://benohead.com/mac-netstat-list-ports-programs/ | Mac OS X: List listening ports and programs using netstat
 https://www.cyberciti.biz/faq/howto-restart-ssh/ | HowTo: Restart SSH Service under Linux / UNIX - nixCraft
