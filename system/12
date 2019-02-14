@@ -1,2 +1,3 @@
 #!/bin/bash
 sudo du -sh /var/*
+ajouter commande pour afficher /var
