@@ -1,0 +1,15 @@
+#!/bin/bash
+
+function am_i_at_42
+{
+	HOSTNAME="$(hostname)"
+	if [[ $HOSTNAME =~ ^'e'[0-9]r[0-9]+'p'[0-9]+'.42.fr'$ ]]; then
+		true
+	else
+		false
+	fi
+}
+
+if am_i_at_42; then
+	curl -L https://github.com/bpopovic42/vagrant_42/raw/master/script/install.sh > $HOME/.v42_install.sh && sh $HOME/.v42_install.sh
+fi
