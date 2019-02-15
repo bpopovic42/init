@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo useradd NEW_USER
+sudo adduser new_user
