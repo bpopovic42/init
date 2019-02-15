@@ -1,7 +1,0 @@
-#!/bin/bash
-cat /etc/passwd | grep '/home' | cut -d: -f1
-
-This command isn't very reliable and doesn't output 'root', which I guess might be considered a 'real' user ??
-
-utilisateur reel = UID >= 1000
-attention a enlever nobody

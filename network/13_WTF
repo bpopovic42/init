@@ -1,1 +1,0 @@
-host "$(ipconfig getifaddr en0)"

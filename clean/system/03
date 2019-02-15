@@ -1,7 +1,7 @@
 Pour rendre le changement de nom persistent il faut modifier le fichier /etc/hostname
 echo "NEW_HOSTNAME" | sudo tee /etc/hostname
 
-Il faut egalement remplacer l'ancien hostname par le nouveau dans le fichier /etc/hosts :
+Il faut egalement remplacer l'ancien hostname par le nouveau dans le fichier /etc/hosts si l'on souhaite eviter les problemes de routage par la suite :
 
 127.0.0.1	localhost
 127.0.1.1	stretch.localdomain NEW_HOSTNAME

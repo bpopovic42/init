@@ -1,3 +1,0 @@
-#!/bin/bash
-sudo service ssh stop
-Veiller a ce que ssh soit bien set avant de lancer la commande

@@ -1,0 +1,12 @@
+#!/bin/bash
+echo "ETHERNET INTERFACE :"
+ifconfig en0
+broadcast_ip=$(ifconfig en0 | grep 'broadcast' | awk '{print $NF}')
+echo
+echo "BROADCAST'S ADDRESS :"
+echo $broadcast_ip
+subnet=$(echo $broadcast_ip | sed -E 's/.?255.?//g')
+echo
+echo "IPS IN THE SAME SUB-NETWORK :"
+IPS=$(ping -c1 $broadcast_ip > /dev/null ; arp -a | grep -o "[0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+" | grep -o "$subnet\.[0-9]\+\.[0-9]\+")
+echo $IPS

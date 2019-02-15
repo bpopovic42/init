@@ -1,0 +1,7 @@
+sudo service --status-all
+ou
+ls /etc/init.d/
+
+tout les services lances au demarrage sont contenus dans ce dossier
+
+https://askubuntu.com/questions/218/command-to-list-services-that-start-on-startup

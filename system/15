@@ -1,2 +1,0 @@
-#!/bin/bash
-sudo kill -9  `jobs -l | grep -m 1 "sudo tail -f /var/log/syslog &" | awk '{print $2}'`
